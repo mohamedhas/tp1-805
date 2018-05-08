@@ -1,0 +1,5 @@
+l'executable contient les deux programmes :
+1-Pour afficher l'image veuillez passer un seul argument ex :
+$ ./viewer [nom_fichier_input]
+2-Pour compresser l'image veuillez passer un 5 arguments ex :
+$ ./viewer [nom_fichier_input] [nom_fichier_output] [taille_index_1] [taille_index_2] [taille_index_3]
